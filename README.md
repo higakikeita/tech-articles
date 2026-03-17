@@ -61,3 +61,5 @@ Terraformの設定ドリフトをリアルタイムで検知するOSS。
 ---
 
 **更新日**: 2025-01-XX
+
+| 2026-03-17 | マルチクラウドセキュリティはサードパーティに寄せるべき理由 | multicloud, security, AWS, GCP, Azure, CSPM | [Qiita](qiita/2026-03-17_multicloud-security-thirdparty.md) |
