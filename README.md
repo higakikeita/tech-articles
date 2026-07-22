@@ -8,6 +8,7 @@
 
 | 日付 | タイトル | タグ | リンク |
 |------|---------|------|--------|
+| 2026-07-22 | セキュリティツールの出力を「人間語」に翻訳するOSS『whyq』を作ってみた（10ツール横断） | `Python`, `Security`, `Trivy`, `Falco`, `OSS` | [Qiita](未公開) |
 | 2025-01-XX | TerraformのDrift検知をリアルタイム化するOSSを作った話 | `Terraform`, `Falco`, `AWS`, `IaC`, `OSS` | [Qiita](未公開) |
 | 2025-01-XX | 【開発日記 #1】TFDrift-Falco、AWS実環境でドリフト検知に成功！ | `Terraform`, `AWS`, `Falco`, `OSS` | [Qiita](未公開) |
 
