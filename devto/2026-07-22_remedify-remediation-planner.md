@@ -79,4 +79,4 @@ pip install remedify
 remedify your-scan.json
 ```
 
-Repo: https://github.com/higakikeita/remedify — alpha, single-file Python, zero dependencies, MIT. Throw a messy scanner report at it; a broken report is the most useful bug you can file.
+Repo: https://github.com/higakikeita/remedify — alpha, single-file Python, zero dependencies, Apache-2.0. Throw a messy scanner report at it; a broken report is the most useful bug you can file.
